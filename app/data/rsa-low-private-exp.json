@@ -1,0 +1,26 @@
+{
+  "practice": {
+    "pem": "rsa-low-private-exponent-pems/private.key.1.pem",
+    "message": "No, no! The adventures first, explanations take such a dreadful time.",
+    "iv": "e33299c22631b6542caddad2c6e0152c",
+    "key": "9e67ff0b83fc6d39e33817d6a619d030"
+  },
+  "aaaa": {
+    "pem": "rsa-low-private-exponent-pems/private.key.2.pem",
+    "message": "I'm not strange, weird, off, nor crazy, my reality is just different from yours.",
+    "iv": "dc2551fee64dc54d9d689bf6349d11f8",
+    "key": "1396c5bede8ffff95eea603c61e01be5"
+  },
+  "bbbb": {
+    "pem": "rsa-low-private-exponent-pems/private.key.3.pem",
+    "message": "If you drink much from a bottle marked 'poison' it is certain to disagree with you sooner or later.",
+    "iv": "fc198d27e039a409cbf7a9ccdcd6aecc",
+    "key": "93482692bb08b631c4ee988514f3e8fc"
+  },
+  "cccc": {
+    "pem": "rsa-low-private-exponent-pems/private.key.4.pem",
+    "message": "And if you wish to go anywhere you must run twice as fast as that.",
+    "iv": "671e5ba64f2cc351920644be9ca68788",
+    "key": "59376598e2b52f67d3fcfb50f278fa01"
+  }
+}

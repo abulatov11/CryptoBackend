@@ -1,0 +1,78 @@
+{
+  "practice": {
+    "data": "A message to test the hash function.",
+    "key1": "4e81ac6b12b2",
+    "key2": "061d3a1c4eef",
+    "token": "lynx"
+  },
+
+  "4cc9e4ca": {
+    "data": "The first draft is just you telling yourself the story.",
+    "key1": "35aa169f",
+    "key2": "69ed1f71",
+    "token": "universe"
+  },
+
+  "61d02558": {
+    "data": "You can not wait for inspiration. You have to go after it with a club.",
+    "key1": "e9f85157",
+    "key2": "81a4336e",
+    "token": "world"
+  },
+
+  "89b44cb5": {
+    "data": "I write to be the characters that I am not. I write to explore all the things I am afraid of.",
+    "key1": "ba34ba2d",
+    "key2": "da368631",
+    "token": "planet"
+  },
+
+  "70123c3e": {
+    "data": "I must write it all out, at any cost. Writing is thinking. It is more than living, for it is being conscious of living.",
+    "key1": "e7681d6a",
+    "key2": "34d0cbcb",
+    "token": "mercury"
+  },
+
+  "309c4453": {
+    "data": "Words are our most inexhaustible source of magic.",
+    "key1": "47a63b73",
+    "key2": "d53dcbee",
+    "token": "world"
+  },
+
+  "47524e75": {
+    "data": "The true alchemists do not change lead into gold; they change the world into words.",
+    "key1": "11037e5b",
+    "key2": "81e411ef",
+    "token": "earth"
+  },
+
+  "a7599762": {
+    "data": "Difficulties mastered are opportunities won.",
+    "key1": "5ff1145e",
+    "key2": "042189ab",
+    "token": "mars"
+  },
+
+  "884124bc": {
+    "data": "I went for years not finishing anything. Because, of course, when you finish something you can be judged.",
+    "key1": "2d4cfac3",
+    "key2": "a4657292",
+    "token": "jupiter"
+  },
+
+  "5e91ed42": {
+    "data": "I love deadlines. I like the whooshing sound they make as they fly by.",
+    "key1": "a717fa69",
+    "key2": "d21b69ca",
+    "token": "world"
+  },
+
+  "20805818": {
+    "data": "Write your first draft with your heart. Rewrite with your head.",
+    "key1": "e02d6a0a",
+    "key2": "820163e0",
+    "token": "world"
+  }
+}

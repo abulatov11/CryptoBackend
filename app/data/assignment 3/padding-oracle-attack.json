@@ -1,0 +1,76 @@
+{
+    "cc0853": {
+        "key": "003e217e32e86ee6f5e06a9b9114f352",
+        "iv": "845c427bd60700b4c7aa7b02496efd49",
+        "plaintext": "SET: authorization_failed = False",
+        "ciphertext": "8fa5c67809b2342c035a19af4983472ed73972bb3e7f98a5a6ec97f9d9ed90383cc978a2a173c0626732df1cc2d528a3"
+    },
+    "6b2df6": {
+        "key": "529f1caff6fb969b8affcf726ec46d60",
+        "iv": "4efc185bee1a4e376171d8e9ac246556",
+        "plaintext": "RUN: ./handshake-script.py > /mnt/null",
+        "ciphertext": "f71f6dc6be85331bbb66f10fac8e6c24f0188f757618e3ae0f907f4297eb42a809bad82701c207cf64023756ae34b474"
+    },
+    "29fdff": {
+        "key": "fca30fb658f678b492244bbac2437364",
+        "iv": "d745bc8c1d29655d89fe3a7a90af65a2",
+        "plaintext": "WAKE-UP: transfer-app --work-in-bg",
+        "ciphertext": "940739e899c2afcc00ea5d3663f5d3a93443b0d9cf64ba4cd55e3f49cff241c09f27b9568a3e592a6e85fc0fee1aaa74"
+    },
+    "74e1a0": {
+        "key": "12e6977609c363cfa92e9d650355e38f",
+        "iv": "214bda25e515ea79194b05646c7e6aa5",
+        "plaintext": "SUSPEND PROCESS: navigate THEN proc",
+        "ciphertext": "0610b04fb81c673b52047f82719b538c7603b02a4a8f0e1a6f0340a68e00246ad1faa69dbfb999ddee462b194993b661"
+    },
+    "d7c0a5": {
+        "key": "c4c0a8d39e05ae8fcf2ed27a1887eeb7",
+        "iv": "9c8609bf03862646e94bb25e4f0ee2af",
+        "plaintext": "DESTROY PROCESS: bankd AND clientd",
+        "ciphertext": "ada5ab6b2dec8b96f307ef737e1ed903119055a4903a28b8921a9dd732c77c8ab59de8c751c040e3baa57caadc0c0a47"
+    },
+    "981069": {
+        "key": "a85ea5f8d299e6ca1a7398c6471cbc46",
+        "iv": "a8f08c303363bc19584a19da82fab483",
+        "plaintext": "STOP: long_running_command.sh -all",
+        "ciphertext": "8b37bff09d40734afeef3e02ef6a0832e8092faba36b351fbccffad4e225d574926f2f83ccba31821f72354c4ff67f00"
+    },
+    "21f001": {
+        "key": "5ad1fc9ed83ce9a09e7582d23e638a88",
+        "iv": "4646f10a5411d4ad4f0bfbe4df807a19",
+        "plaintext": "RUN: long_running_command.sh -val 12",
+        "ciphertext": "f6a5ecc3b019d1b4357cfff3b92ffbbfce7f349860960453b389af8b801e19c3f0448722d5951f3e345776b8cf406cb0"
+    },
+    "79875c": {
+        "key": "dc24c2999db10c2b00885a5a85884013",
+        "iv": "bcb9d7d68897931801eebb22a4709064",
+        "plaintext": "RESUME SERVICE: bankd AND transaction",
+        "ciphertext": "8fb5d76418573cb7d50ef1585501cb60f2815091e5bedd33d9ec7c514ae4da33c96046f27562da4a732bee1190f9f705"
+    },
+    "708069": {
+        "key": "5fc2bc14a5223b27f0668d7754a94373",
+        "iv": "2ef40cb241ab2a432e8e3af9b3251490",
+        "plaintext": "PRESERVE RIGHTS: startup/hybernation",
+        "ciphertext": "6b8ba4e5f8b04f9420a94d1c803a63a242b55036a6ca94670194743225363679b1514e444525a1b7f4e0b843ae787183"
+    },
+    "d4296a": {
+        "key": "c14449d471f0d1c1582ebc3fa8c1595f",
+        "iv": "8717cba5f1ec50165585fea6f56082ea",
+        "plaintext": "IGNORE VAR: show_error_messages_on_startup",
+        "ciphertext": "2399195b6fc091746d4a673a1d6457dec8caf10ff8bc5a1fad774a5c4e7802c4fd84191df6e5ab4ce05d614e7b0b6ecc"
+    },
+    "88bd16": {
+        "key": "3b91771482ed91287a3bb851bfddb21e",
+        "iv": "1befa0986d95dcd1ce0fc23cc2251797",
+        "plaintext": "SET: system_clock = 12:34:21 pm PDT",
+        "ciphertext": "ddf0972dc0426a368394ce9bd1ac5fde8ddbd00cf31262f6f63914e6fbd331608a4a266421909400f33eccb39e7280e7"
+    },
+    
+    
+    "test-1": {
+        "key": "dedd6bf8c8d1dc6b74c92fec12c200bb",
+        "iv": "63be20dd9244ba5af706715af4215e21",
+        "plaintext": "WAIT TILL: wake-up-call == 12/12/2020",
+        "ciphertext": "fefbd9ddecf88f23b5985db0712fc563f025412e0fb4b84e87a7e3b8f6ce62c9d9a371029b61bff56da4b4038f5509cb"
+    }
+}

@@ -1,0 +1,253 @@
+{
+  "practice": {
+    "user": "student",
+    "password": "hello-world",
+
+    "variables": {
+      "SYSTEM-TOKEN": "unicorns",
+      "USERNAME": "student",
+      "SYSTEM": "Linux OS"
+    }
+  },
+
+  "aaaa": {
+    "user": "student",
+    "password": "hello-world",
+
+    "variables": {
+      "SYSTEM-TOKEN": "foxes",
+      "USERNAME": "foxes",
+      "SYSTEM": "Linux OS"
+    }
+  },
+
+  "bbbb": {
+    "user": "student",
+    "password": "hello-world",
+    "adversary": 1,
+
+    "variables": {
+      "SYSTEM-TOKEN": "bears",
+      "USERNAME": "student",
+      "SYSTEM": "Linux OS"
+    }
+  },
+
+  "cccc": {
+    "user": "student",
+    "password": "hello-world",
+
+    "variables": {
+      "SYSTEM-TOKEN": "zebra",
+      "USERNAME": "student",
+      "SYSTEM": "Linux OS"
+    }
+  },
+
+  "dddd": {
+    "user": "student",
+    "password": "hello-world",
+    "adversary": 1,
+
+    "variables": {
+      "SYSTEM-TOKEN": "penguins",
+      "USERNAME": "pingy",
+      "SYSTEM": "Linux OS"
+    }
+  },
+
+
+  "53140351": {
+    "user": "user-a",
+    "password": "highway",
+    "adversary": 1,
+
+    "variables": {
+      "SYSTEM-TOKEN": "penguins",
+      "USERNAME": "pingy",
+      "SYSTEM": "Linux OS",
+      "ZODIAC": "Moon"
+    },
+    "files": {
+
+      "text.txt": "Just a random text file. Nothing interesting.",
+      "data.today.dat": "Data file. Also not very interesting.",
+      "file.config": "PASSWORD=5014eb86"
+
+    }
+  },
+
+
+  "1f2d51fb": {
+    "user": "user999",
+    "password": "insurance",
+
+    "variables": {
+      "SYSTEM-TOKEN": "penguins",
+      "USERNAME": "pingy",
+      "SYSTEM": "Linux OS",
+      "VARIABLE": "Mercury"
+    },
+    "files": {
+
+      "test.txt": "Just a random text file. Nothing interesting.",
+      "data.dat": "Data file. Also not very interesting.",
+      "config.conf": "PASSWORD=c565c2c8"
+
+    }
+  },
+
+
+  "f2318260": {
+      "user": "admin",
+      "password": "revolution",
+
+      "variables": {
+        "SYSTEM-TOKEN": "penguins",
+        "USERNAME": "pingy",
+        "SYSTEM": "Linux OS",
+        "ENVIRONMENT": "Venus"
+      },
+      "files": {
+
+        "test.txt": "Just a random text file. Nothing interesting.",
+        "data.dat": "Data file. Also not very interesting.",
+        "config.conf": "PASSWORD=c565c2c8"
+
+      }
+    },
+
+  "a2685bc1": {
+      "user": "adminadmin",
+      "password": "classroom",
+
+      "variables": {
+        "SYSTEM-TOKEN": "penguins",
+        "USERNAME": "pingy",
+        "SYSTEM": "Earth",
+        "ENVIRONMENT": "Earth Engine"
+      },
+      "files": {
+
+        "test.txt": "Just a random text file. Nothing interesting.",
+        "data.dat": "Data file. Also not very interesting.",
+        "config.conf": "PASSWORD=c565c2c8"
+
+      }
+    },
+
+  "fc98570c": {
+      "user": "worker",
+      "password": "uncle",
+
+      "variables": {
+        "SYSTEM-TOKEN": "penguins",
+        "USERNAME": "pingy",
+        "SYSTEM": "Linux OS",
+        "SECRET": "Moon"
+      },
+      "files": {
+
+        "test.txt": "Just a random text file. Nothing interesting.",
+        "data.dat": "Data file. Also not very interesting.",
+        "config.conf": "PASSWORD=c565c2c8"
+
+      }
+    },
+
+  "adab0369": {
+      "user": "userAdmin",
+      "password": "possibility",
+
+      "variables": {
+        "SYSTEM-TOKEN": "penguins",
+        "USERNAME": "pingy",
+        "SYSTEM": "Linux OS",
+        "ENTITY": "Mars"
+      },
+      "files": {
+
+        "test.txt": "Just a random text file. Nothing interesting.",
+        "data.dat": "Data file. Also not very interesting.",
+        "config.conf": "PASSWORD=c565c2c8"
+
+      }
+    },
+
+  "6c243a7d": {
+      "user": "88user99",
+      "password": "manufacturer",
+
+      "variables": {
+        "SYSTEM-TOKEN": "penguins",
+        "USERNAME": "pingy",
+        "SYSTEM": "Linux OS",
+        "FRAMEWORK": "Jupiter"
+      },
+      "files": {
+
+        "test.txt": "Just a random text file. Nothing interesting.",
+        "data.dat": "Data file. Also not very interesting.",
+        "config.conf": "PASSWORD=c565c2c8"
+
+      }
+    },
+
+  "7f2502e4": {
+      "user": "22user22",
+      "password": "sector",
+
+      "variables": {
+        "SYSTEM-TOKEN": "penguins",
+        "USERNAME": "pingy",
+        "SYSTEM": "Linux OS",
+        "ENGINE": "Saturn"
+      },
+      "files": {
+
+        "test.txt": "Just a random text file. Nothing interesting.",
+        "data.dat": "Data file. Also not very interesting.",
+        "config.conf": "PASSWORD=c565c2c8"
+
+      }
+    },
+
+  "0f2d51fb": {
+      "user": "userNumOne",
+      "password": "patience",
+
+      "variables": {
+        "SYSTEM-TOKEN": "penguins",
+        "USERNAME": "pingy",
+        "SYSTEM": "Linux OS",
+        "VARIABLE": "Neptune"
+      },
+      "files": {
+
+        "test.txt": "Just a random text file. Nothing interesting.",
+        "data.dat": "Data file. Also not very interesting.",
+        "config.conf": "PASSWORD=c565c2c8"
+
+      }
+    },
+
+  "f4a7b2ef": {
+      "user": "user-zzz",
+      "password": "bird",
+
+      "variables": {
+        "SYSTEM-TOKEN": "penguins",
+        "USERNAME": "pingy",
+        "SYSTEM": "Linux OS",
+        "TOKEN": "Io"
+      },
+      "files": {
+
+        "test.txt": "Just a random text file. Nothing interesting.",
+        "data.dat": "Data file. Also not very interesting.",
+        "config.conf": "PASSWORD=c565c2c8"
+
+      }
+    }
+
+}

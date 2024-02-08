@@ -1,0 +1,45 @@
+FROM python:3.9-alpine
+
+# set up a working directory in the image
+WORKDIR /home/crypto
+
+# update repos in the image
+RUN apk upgrade --update-cache --available
+
+# install or update required packages into the image
+RUN apk add bash
+RUN apk add build-base
+RUN apk add --update gcc
+RUN apk add rust
+RUN apk add cargo
+RUN apk add python3-dev
+RUN apk add python3
+RUN apk add --update py-pip
+RUN apk add libffi-dev
+RUN apk add libressl-dev
+RUN apk add openssl
+RUN apk add xxd
+
+
+# copy requirements.txt file into the image
+COPY requirements.txt requirements.txt
+
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+
+COPY app app
+COPY application.py ./
+
+ENV FLASK_APP application.py
+ENV MONGO_DB_USERNAME m0ng0_EsQ8YMQ9JK
+ENV MONGO_DB_PASSWORD "%#jw2RbzssSvgBT2"
+ENV MONGO_DB_NAME crypto-db
+
+# run everything under crypto user account
+RUN adduser -D crypto
+RUN chown -R crypto:crypto ./
+USER crypto
+
+EXPOSE 8888
+
+ENTRYPOINT ["flask", "run", "--host", "0.0.0.0", "--port", "8888"]

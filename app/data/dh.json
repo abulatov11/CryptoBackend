@@ -1,0 +1,94 @@
+{
+
+  "practice": {
+    "prime": "00:da:34:05:a4:e9:d0:b3:36:0d:b4:14:f1:80:10:a1:bf:a8:04:59:aa:57:ba:83:48:79:99:dc:bf:de:d0:20:69:9b:be:dd:d6:b6:16:8a:c3:13:e1:e7:04:0a:63:9f:a3",
+    "generator": "02",
+    "text": "People say nothing is impossible, but I do nothing every day."
+  },
+
+  "aaaa": {
+    "prime": "00:a7:e7:0f:7f:fb:9a:58:9c:7c:2a:ca:d4:41:08:10:64:02:72:a6:40:97:50:82:dc:ee:31:a7:7f:0a:b7:0d:d5:1c:0c:d5:03:ca:3e:06:b0:0a:ae:14:a4:e0:7e:26:b3",
+    "generator": "02",
+    "text": "Who in the world am I? Ah, that is the great puzzle."
+  },
+
+  "bbbb": {
+    "prime": "00:95:b5:a4:52:fb:45:26:26:da:09:1a:f4:bc:c1:1c:ac:60:90:69:91:b7:d9:76:0d:b4:2e:2a:fc:7c:d7:a6:ab:ac:27:39:d5:ba:fb:c5:d3:fd:ab:87:d0:be:6d:07:0b",
+    "generator": "02",
+    "text": "Begin at the beginning, and go on till you come to the end: then stop."
+  },
+
+  "cccc": {
+    "prime": "00:ac:42:57:5c:88:a4:eb:2d:ae:19:02:38:66:7c:11:e8:3f:ac:53:3a:66:25:40:98:01:2a:34:19:57:57:86:e8:40:40:02:aa:14:e3:2f:1e:81:cb:3a:1e:09:30:42:23",
+    "generator": "02",
+    "text": "Why, sometimes I've believed as many as six impossible things before breakfast."
+  },
+
+  "dddd": {
+    "prime": "00afbb53d1b93dcb593f93a081fabc608a43ec48b70bc172ec51cbd2650f795ed63d15c6fb3ec6507c435968cafb9ae48b",
+    "generator": "02",
+    "text": "It is no use going back to yesterday, because I was a different person then."
+  },
+
+  "115bc250d5d7": {
+    "prime": "00c82abd603ac5cb120ae480763a8cc36bc10d715e5053126e25a876a1bef78a15b6e856079e566315fc3da8bec328bbf3",
+    "generator": "02",
+    "text": "Yes, that's it! Said the Hatter with a sigh, it is always tea time."
+  },
+
+  "c9aaea805d0e": {
+    "prime": "00ad7ac82f08f18e9688dddf8c7d661031bb31d943efb5d6fae860ea0569cba94a4e27e8f331d5fc55b9aa9751d69962db",
+    "generator": "02",
+    "text": "It would be so nice if something made sense for a change."
+  },
+
+  "7084692c11f7": {
+    "prime": "00f16b6a6244c1d6c7ce0071ca07bf6f926a848a19078d49d1a2fc360858e735cff82d798e8329a53a2c73fb53479156f3",
+    "generator": "02",
+    "text": "If you don't know where you are going any road can take you there."
+  },
+
+  "cf5d2dedf76a": {
+    "prime": "00e4bc945e2a58d7112f6fe9c096c97ffe28090b10a036e7b81bf944b7dea105f65d64ab7ed7e3c7a2813ccac68397016b",
+    "generator": "02",
+    "text": "I give myself very good advice, but I very seldom follow it."
+  },
+
+  "2dc1419f1d40": {
+    "prime": "00b6798704c844efa83d57b94c4bb60c855fac56f9c9a4d21cf9d15938472e3096784e53754a6c8e3948a067ca41a4a873",
+    "generator": "02",
+    "text": "Was I the same when I got up this morning?"
+  },
+
+  "fe2cf6d02621": {
+    "prime": "0094d949516c329b83504812dceac39a38bcb125c8e91b39a19d4027ef36b20217483f7a0c7e4d8f420cd7068f556ff46b",
+    "generator": "02",
+    "text": "I knew who I was this morning, but I've changed a few times since then."
+  },
+
+  "1f73769a8a05": {
+    "prime": "00bd359aed4339183b7a93185083249b0273bf21670cad1e848e541bf6acff4bc3dc31e0d807f57ea4b71ddd988bf3fa7b",
+    "generator": "02",
+    "text": "Now I growl when I'm pleased, and wag my tail when I'm angry."
+  },
+
+  "f026c6e1e9ad": {
+    "prime": "00bc0703b1732f97a078f17e27e29c2845cf2d3306696771fc386577573e40b2d46a45d29d73deaaa0b29e463dbf9e98eb",
+    "generator": "02",
+    "text": "I'm never sure what I'm going to be, from one minute to another."
+  },
+
+  "88aa05b6bcb9": {
+    "prime": "00f7f587f87d607a5cc817c12fb145912acac4ea51dd4b4584c0a90fa0c4872bc93ec02db29fd605c8d6224360133c24b3",
+    "generator": "02",
+    "text": "And what is the use of a book without pictures or conversation?"
+  },
+
+  "f4339c57b045": {
+    "prime": "00ba7207945d19e84f5fa42925ee2f4b724e9295fa2783f24813c2c75e14ab894992990a9b151235fa6a08dbbae7ee6a4b",
+    "generator": "02",
+    "text": "Well, I never heard it before, but it sounds uncommon nonsense."
+  }
+
+
+}

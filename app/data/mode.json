@@ -1,0 +1,177 @@
+{
+    "9ac79e34063c": {
+        "cipher": "aes",
+        "mode": "ecb",
+        "key-size": 128,
+        "key": "aa5b2de0c5bce8017fe1f049e4980e0e"
+    },
+    "9527e2be4ecc": {
+        "cipher": "aes",
+        "mode": "ecb",
+        "key-size": 128,
+        "key": "a0f474f45552eec441bf3933cd353a5d"
+    },
+    "a6fbcf7164d2": {
+        "cipher": "aes",
+        "mode": "ecb",
+        "key-size": 128,
+        "key": "2d4d96e652c810fd36264fa9363860af"
+    },
+    "9747a656f793": {
+        "cipher": "aes",
+        "mode": "ecb",
+        "key-size": 128,
+        "key": "f055d2268ff89a4392acfe3a7ee332bf"
+    },
+    "c53dfae05955": {
+        "cipher": "aes",
+        "mode": "cbc",
+        "key-size": 128,
+        "key": "90a320292df233b2fb8a3cb139d2375e"
+    },
+    "4716f248a093": {
+        "cipher": "aes",
+        "mode": "cbc",
+        "key-size": 128,
+        "key": "d95b2de0c527e8017fe33049e2b81e0e"
+    },
+    "777cd8d9510d": {
+        "cipher": "aes",
+        "mode": "cbc",
+        "key-size": 128,
+        "key": "8d5d58ac342d280d81ddb8642d1178bc"
+    },
+    "2b52164c5aae": {
+        "cipher": "aes",
+        "mode": "cbc",
+        "key-size": 128,
+        "key": "b1a471b70e6dcece6cd248a31a56ef9d"
+    },
+    "ad8f5e7bc7d5": {
+        "cipher": "aes",
+        "mode": "ofb",
+        "key-size": 128,
+        "key": "a5b174a479f80644c170b7a4c95e2fbe"
+    },
+    "6694f3a71679": {
+        "cipher": "aes",
+        "mode": "ofb",
+        "key-size": 128,
+        "key": "f4fb9ec7dbb8ff6874efaa298b1150bb"
+    },
+    "b750d660c502": {
+        "cipher": "aes",
+        "mode": "ofb",
+        "key-size": 128,
+        "key": "efd159286ad2c22b9356ff74ca4e99ea"
+    },
+    "64d88494dc57": {
+        "cipher": "aes",
+        "mode": "ofb",
+        "key-size": 128,
+        "key": "a5819c6387d6bea9bb76782729ece8ea",
+        "padding": true
+    },
+    "7c3b0753b928": {
+        "cipher": "aes",
+        "mode": "ctr",
+        "key-size": 128,
+        "key": "dc647d5a0fea5b66310f568e3ca7be31"
+    },
+    "7ab8c9e6d8eb": {
+        "cipher": "aes",
+        "mode": "ctr",
+        "key-size": 128,
+        "key": "dc8f695ec55d81685141075610fa7ffa"
+    },
+    "d39b3cbbcfe0": {
+        "cipher": "aes",
+        "mode": "ctr",
+        "key-size": 128,
+        "key": "f9e7583b9b693b947f32120a7896272f"
+    },
+    "3059247e2ad7": {
+        "cipher": "aes",
+        "mode": "ctr",
+        "key-size": 128,
+        "key": "8615af8fbe4190a71e72621135dc0036",
+        "padding": true
+    },
+    "04bc40cbb539": {
+        "cipher": "aes",
+        "mode": "cfb",
+        "key-size": 128,
+        "key": "a322c84ddba84be3b07f5e512e545467"
+    },
+    "1f49a9152c76": {
+        "cipher": "aes",
+        "mode": "cfb",
+        "key-size": 128,
+        "key": "76215f5f9700f7acbb34215b64f74d34"
+    },
+    "a721f0112de4": {
+        "cipher": "aes",
+        "mode": "cfb",
+        "key-size": 128,
+        "key": "a1367e903f350329a5543c6cdd7af854"
+    },
+    "0b88c388df96": {
+        "cipher": "aes",
+        "mode": "cfb",
+        "key-size": 128,
+        "key": "38df0a8836708c7bb9f3d6e168f5c668",
+        "padding": true
+    },
+    "62b2dafc673c": {
+        "cipher": "random",
+        "mode": "random",
+        "key-size": 128,
+        "key": "0c9ab95697222ab0203f47c2a2c67a67",
+        "padding": true
+    },
+    "bca08f8ec7dc": {
+        "cipher": "random",
+        "mode": "random",
+        "key-size": 128,
+        "padding": true,
+        "key": "8845454535cb334059d72f0d85cafc39"
+    },
+    "55e44edd4de2": {
+        "cipher": "random",
+        "mode": "random",
+        "key-size": 128,
+        "key": "88476ef335cb334059d72f0d85cafc39"
+    },
+    "34bf00d038aa": {
+        "cipher": "random",
+        "mode": "random",
+        "key-size": 128,
+        "key": "88476ef335cb334059d72f0d85cafc45"
+    },
+    
+    
+    "practice": {
+        "cipher": "aes",
+        "mode": "cbc",
+        "key-size": 128,
+        "key": "ffeeddccbbaa99887766554433221100"
+    },
+    "aaaa": {
+        "cipher": "aes",
+        "mode": "cbc",
+        "key-size": 128,
+        "key": "3e8f69c9f3bf5acd54788e05be54fc52"
+    },
+    "bbbb": {
+        "cipher": "aes",
+        "mode": "cbc",
+        "key-size": 128,
+        "key": "7c1da973e0a64460eae7c119ea777d84"
+    },
+    "cccc": {
+        "cipher": "aes",
+        "mode": "ctr",
+        "key-size": 128,
+        "key": "f3df4be53fb56abb6f27722f147037ca"
+    }
+}
